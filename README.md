@@ -99,7 +99,7 @@ Simplify the donation process with the help of our chatbot companion.
 
 For any questions or assistance, please reach out to us via email:
 
-📧 Email: empowerdonation@gmail.com
+📧 Email: empowergiving@gmail.com
 
 Feel free to contact us, and we'll be happy to assist you!
 <br><br>
@@ -109,7 +109,7 @@ Feel free to contact us, and we'll be happy to assist you!
 
 We value your feedback! If you have any suggestions, encounter issues, or simply want to share your experience, please let us know.
 
-📧 Email: empowerdonation@gmail.com
+📧 Email: empowergiving@gmail.com
 
 Your insights are essential for us to improve and enhance the Empower Donation experience. Thank you for being part of our community!
 <br><br>
